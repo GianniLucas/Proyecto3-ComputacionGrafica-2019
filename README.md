@@ -1,2 +1,2 @@
-# Proyecto3-ComputacionGr-fica-2019
-Tercer Proyecto Computación Gráfica 2019 Uiversidad del Sur
+# Proyecto3-ComputacionGrafica-2019
+Tercer Proyecto Computacion Grafica 2019 Uiversidad del Sur
